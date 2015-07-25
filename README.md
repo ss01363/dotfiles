@@ -5,7 +5,7 @@ Requires `git` and `zsh`
 
 ```bash
 cd ~
-git clone --depth=1 git@github.com:simnalamburt/dotfiles.git .dotfiles
+git clone --depth=1 git@github.com:ss01363/dotfiles.git .dotfiles
 git clone --depth=1 git://github.com/robbyrussell/oh-my-zsh.git .oh-my-zsh
 
 ln -sf .dotfiles/.vim .
